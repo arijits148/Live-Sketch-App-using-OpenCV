@@ -9,3 +9,5 @@
    * Numpy
    
 ## Output:
+
+![screenshot from 2018-10-30 16-23-39](https://user-images.githubusercontent.com/40036314/47869868-0b0c0880-de2e-11e8-85f3-8a3d5e6da83e.png)
